@@ -1,0 +1,19 @@
+
+
+.jumbotron{
+    padding: 6rem;
+    background-image: url("/assets/img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-satu{
+    padding-top: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .hero-satu{
+        text-align: center;
+    }
+    
+}
